@@ -108,6 +108,16 @@ Size uygun pozisyonları bulacağım!
 - Can be extended to use NLP or AI APIs in future versions.
 
 ---
+### 🔁 API Gateway
+
+An Express-based API Gateway is implemented to route all frontend requests through a single entry point.
+
+- `/api/v1/jobs` → Job Service
+- `/api/v1/notify` → Notification Service
+- `/api/v1/ai` → AI Agent Service
+
+This allows for centralized control over authentication, routing, and future scalability.
+---
 
 ## 📊 Data Model Overview
 
