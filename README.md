@@ -157,7 +157,7 @@ Below is a simplified ER model used in the Job Search service:
 
 ## 📽️ Demo Video
 
-[🔗 Link to Project Demo (max 5 mins)]([https://your-video-link.com](https://drive.google.com/file/d/1db0YZkm3PHrOgBbGxwDBYYPXNl1MtvpY/view?usp=sharing))
+[[🔗 Link to Project Demo (max 5 mins)]([https://your-video-link.com](https://drive.google.com/file/d/1db0YZkm3PHrOgBbGxwDBYYPXNl1MtvpY/view?usp=sharing))](https://drive.google.com/file/d/1db0YZkm3PHrOgBbGxwDBYYPXNl1MtvpY/view?usp=sharing)
 
 ---
 
