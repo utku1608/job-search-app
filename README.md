@@ -54,6 +54,61 @@ All services:
 
 ---
 
+### 🧠 AI Agent Service
+
+The **AI Agent Service** is a conversational assistant integrated into the main screen of the application. It allows users to search for and apply to jobs using natural language, improving usability and interactivity.
+
+#### 💬 Example Interaction:
+
+**User:**  
+İzmir'de iş ilanları arıyorum.  
+**AI:**  
+Size uygun pozisyonları bulacağım!  
+3 adet uygun pozisyon buldum! İşte size uygun olanlar:
+
+- **Mobile Developer**  
+  🏢 Yaşar Uni  
+  📍 İzmir, Türkiye  
+  💼 Tam Zamanlı  
+  🔘 [Başvur]
+
+- **Full Stack Developer**  
+  🏢 Raynet  
+  📍 İzmir, Türkiye  
+  💼 Hibrit  
+  🔘 [Başvur]
+
+- **React Developer**  
+  🏢 FrontendX  
+  📍 İzmir, Türkiye  
+  💼 Tam Zamanlı  
+  🔘 [Başvur]
+
+---
+
+**User:**  
+Mobile developer olarak iş arıyorum.  
+**AI:**  
+Size uygun pozisyonları bulacağım!  
+1 adet uygun pozisyon buldum! İşte size uygun olanlar:
+
+- **Mobile Developer**  
+  🏢 Yaşar Uni  
+  📍 İzmir, Türkiye  
+  💼 Tam Zamanlı  
+  🔘 [Başvur]
+
+---
+
+#### 🔧 Technical Notes
+
+- Uses backend **REST APIs** to perform search and apply operations.
+- No real-time communication is required.
+- Conversational UI is embedded as a chat window on the main page.
+- Can be extended to use NLP or AI APIs in future versions.
+
+---
+
 ## 📊 Data Model Overview
 
 ![ER Diagram](./assets/er-diagram.png)
