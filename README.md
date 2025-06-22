@@ -56,6 +56,8 @@ All services:
 
 ## 📊 Data Model Overview
 
+![ER Diagram](./assets/er-diagram.png)
+
 Below is a simplified ER model used in the Job Search service:
 
 **Job Table**
